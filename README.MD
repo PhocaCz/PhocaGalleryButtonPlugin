@@ -1,0 +1,1 @@
+Phoca Gallery Button Plugin is Joomla! CMS extension. Plugin which displays button plugin in Article - to easily add Phoca Gallery plugin code.
