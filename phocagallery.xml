@@ -1,34 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension group="editors-xtd" method="upgrade" type="plugin" version="3">
+<extension type="plugin" group="editors-xtd" method="upgrade" version="3">
 	<name>plg_editors-xtd_phocagallery</name>
-	<creationDate>21/10/2014</creationDate>
 	<author>Jan Pavelka (www.phoca.cz)</author>
+	<creationDate>27/01/2019</creationDate>
 	<authorEmail></authorEmail>
-	<authorUrl>www.phoca.cz</authorUrl>
+	<authorUrl>https://www.phoca.cz</authorUrl>
 	<copyright>Jan Pavelka</copyright>
 	<license>GNU/GPL</license>
-	<version>4.1.2</version>
-	
+	<version>4.3.11</version>
 	<description>PLG_EDITORS-XTD_PHOCAGALLERY_DESCRIPTION</description>
-	
-	<files>
-		<filename plugin="phocagallery">phocagallery.php</filename>
+	<projectName>PhocaGalleryButtonPlugin</projectName>
+
+	<media destination="plg_editors-xtd_phocagallery" folder="media">
+		<folder>css</folder>
+		<folder>images</folder>
 		<filename>index.html</filename>
-		<folder>assets</folder>
+	</media>
+
+	<files>
+		<filename plugin="phocagallery">index.html</filename>
+		<filename plugin="phocagallery">phocagallery.php</filename>
 	</files>
-	
+
 	<languages>
 		<language tag="en-GB">language/en-GB/en-GB.plg_editors-xtd_phocagallery.ini</language>
 		<language tag="en-GB">language/en-GB/en-GB.plg_editors-xtd_phocagallery.sys.ini</language>
 	</languages>
-	
+
 	<administration>
 		<languages>
 			<language tag="en-GB">language/en-GB/en-GB.plg_editors-xtd_phocagallery.ini</language>
 			<language tag="en-GB">language/en-GB/en-GB.plg_editors-xtd_phocagallery.sys.ini</language>
 		</languages>
 	</administration>
-
+	
 	<config>
 		<fields name="params">
 			<fieldset name="basic">
@@ -39,4 +44,8 @@
 			</fieldset>
 		</fields>
 	</config>
+
+	<updateservers>
+		<server type="extension" name="PLG_EDITORS-XTD_PHOCAGALLERY"><![CDATA[https://raw.githubusercontent.com/PhocaCz/PhocaGalleryButtonPlugin/master/manifest.xml]]></server>
+	</updateservers>
 </extension>
