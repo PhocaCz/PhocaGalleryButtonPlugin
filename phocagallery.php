@@ -46,7 +46,7 @@ class plgButtonPhocaGallery extends JPlugin
 		$button->options = "{handler: 'iframe', size: {x: 800, y: 500}}";
 
 		if ($enableFrontend == 0) {
-			if (!$app->isAdmin()) {
+            if (!$app->isClient('administrator')) {
 				$button = null;
 			}
 		}

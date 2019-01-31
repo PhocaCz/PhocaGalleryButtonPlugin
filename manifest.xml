@@ -2,7 +2,7 @@
 	<update>
 		<name><![CDATA[ Phoca Gallery Button Plugin ]]></name>
 		<description><![CDATA[ Phoca Gallery Button Plugin is a Joomla! plugin which enables a Phoca Gallery button in editor. With help of this button you can easily add Phoca Gallery Plugin code to your articles. ]]></description>
-		<element>plg_editors-xtd_phocagallery</element>
+		<element>phocagallery</element>
 		<folder>editors-xtd</folder>
 		<type>plugin</type>
 		<version>4.3.11</version>
@@ -17,6 +17,6 @@
 		<maintainerurl>https://www.phoca.cz/</maintainerurl>
 		<section>Updates</section>
 		<targetplatform name="joomla" version="3.9"/>
-		<client>1</client>
+		<client>0</client>
 	</update>
 </updates>
