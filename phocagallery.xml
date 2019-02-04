@@ -2,7 +2,7 @@
 <extension type="plugin" group="editors-xtd" method="upgrade" version="3">
 	<name>plg_editors-xtd_phocagallery</name>
 	<author>Jan Pavelka (www.phoca.cz)</author>
-	<creationDate>31/01/2019</creationDate>
+	<creationDate>04/02/2019</creationDate>
 	<authorEmail></authorEmail>
 	<authorUrl>https://www.phoca.cz</authorUrl>
 	<copyright>Jan Pavelka</copyright>
@@ -46,6 +46,6 @@
 	</config>
 
 	<updateservers>
-		<server type="extension" name="PLG_EDITORS-XTD_PHOCAGALLERY"><![CDATA[https://raw.githubusercontent.com/PhocaCz/PhocaGalleryButtonPlugin/master/manifest.xml]]></server>
+		<server type="extension" name="PLG_EDITORS-XTD_PHOCAGALLERY" priority="1"><![CDATA[https://raw.githubusercontent.com/PhocaCz/PhocaGalleryButtonPlugin/master/manifest.xml]]></server>
 	</updateservers>
 </extension>

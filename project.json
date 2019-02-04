@@ -9,6 +9,8 @@
 	"description": "Phoca Gallery Button Plugin is a Joomla! plugin which enables a Phoca Gallery button in editor. With help of this button you can easily add Phoca Gallery Plugin code to your articles.",
 	"projectUrl": "https://www.phoca.cz/phocagallery-button",
 	"projectDocumentationUrl": "https://www.phoca.cz/documentation/category/59-phoca-gallery-button-plugin",
+	"projectMainComponent": "Phoca Gallery",
+	"projectMainComponentInfoUrl": "https://www.phoca.cz/project/phocagallery-joomla-gallery",
 	"projectDemo" : {
 		"Joomla! 1.5 Demo": "https://www.phoca.cz/demo/"
 	},
