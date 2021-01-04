@@ -19,7 +19,6 @@
 
 	<files>
 		<filename plugin="phocagallery">index.html</filename>
-		<filename plugin="phocagallery">manifest.xml</filename>
 		<filename plugin="phocagallery">phocagallery.php</filename>
 	</files>
 
