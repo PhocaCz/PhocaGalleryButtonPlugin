@@ -2,7 +2,7 @@
 
 
 
-![Phoca Gallery Button Plugin](https://github.com/PhocaCz/PhocaGalleryButtonPlugin/blob/master/phocagallery.png)
+![Phoca Gallery Button Plugin](https://github.com/PhocaCz/PhocaGalleryButtonPlugin/blob/master/phocagallery.png?raw=true)
 
 # Phoca Gallery Button Plugin
 
@@ -23,6 +23,8 @@ Phoca Gallery Button Plugin is a Joomla! plugin which enables a Phoca Gallery bu
 ## Documentation
 
 [Documentation](https://www.phoca.cz/documentation/category/59-phoca-gallery-button-plugin)
+
+
 
 
 
@@ -52,7 +54,7 @@ Phoca Gallery Button Plugin is a Joomla! plugin which enables a Phoca Gallery bu
 
 ## Version
 
-4.3.11
+4.4.0
 
 
 

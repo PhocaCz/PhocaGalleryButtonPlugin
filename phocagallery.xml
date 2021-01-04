@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension type="plugin" group="editors-xtd" method="upgrade" version="3">
+<extension type="plugin" group="editors-xtd" method="upgrade" version="3.9">
 	<name>plg_editors-xtd_phocagallery</name>
 	<author>Jan Pavelka (www.phoca.cz)</author>
-	<creationDate>04/02/2019</creationDate>
+	<creationDate>04/01/2021</creationDate>
 	<authorEmail></authorEmail>
 	<authorUrl>https://www.phoca.cz</authorUrl>
 	<copyright>Jan Pavelka</copyright>
 	<license>GNU/GPL</license>
-	<version>4.3.11</version>
+	<version>4.4.0</version>
 	<description>PLG_EDITORS-XTD_PHOCAGALLERY_DESCRIPTION</description>
 	<projectName>PhocaGalleryButtonPlugin</projectName>
 
@@ -19,6 +19,7 @@
 
 	<files>
 		<filename plugin="phocagallery">index.html</filename>
+		<filename plugin="phocagallery">manifest.xml</filename>
 		<filename plugin="phocagallery">phocagallery.php</filename>
 	</files>
 
