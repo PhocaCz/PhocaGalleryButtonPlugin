@@ -1,4 +1,90 @@
+#phocagallery-links .btn-box-submit {
+	text-align: right;
+} 
 
-.button2-left .phocagallery {
-	background: url(../images/icon-button.png) 100% 0 no-repeat;
+#phocagallery-links .btn-box-back {
+	text-align: left;
+	margin-top: 2em;
+} 
+
+
+/* Phoca Gallery Editor Button Plugin */
+.plg-button-tbl {
+	width: 100%;
+}
+.plg-button-tbl tr {
+	border-bottom: 1px solid #f0f0f0;
+}
+
+.plg-button-tbl tr td {
+
+	padding-top:5px;
+	padding-bottom: 5px;
+}
+
+.plg-button-insert {
+	margin-right: 5px;
+}
+#phocagallery-fba .ph-icon-16-edb-categories,
+#phocagallery-links .ph-icon-16-edb-categories {
+	background: #f8f9fa url('../../com_phocagallery/images/administrator/icon-16-edb-categories.png') no-repeat 5px center;
+
+}
+#phocagallery-links .ph-icon-16-edb-category {
+	background: #f8f9fa url('../../com_phocagallery/images/administrator/icon-16-edb-category.png') no-repeat  5px center;
+}
+#phocagallery-links .ph-icon-16-edb-images {
+	background: #f8f9fa url('../../com_phocagallery/images/administrator/icon-16-edb-images.png') no-repeat  5px center;
+}
+#phocagallery-links .ph-icon-16-edb-image {
+	background: #f8f9fa url('../../com_phocagallery/images/administrator/icon-16-edb-image.png') no-repeat 5px center;
+}
+#phocagallery-links a {
+	text-decoration:underline;
+}
+
+#phocagallery-links .ph-icon-16-edb-back {
+	background: #f8f9fa url('../../com_phocagallery/images/administrator/icon-16-edb-back.png') no-repeat 5px center;
+}
+#phocagallery-links .ph-icon-16-edb-switchimage {
+	background: #f8f9fa url('../../com_phocagallery/images/administrator/icon-16-edb-switchimage.png') no-repeat 5px center;
+}
+#phocagallery-links .ph-icon-16-edb-slideshow {
+	background: #f8f9fa url('../../com_phocagallery/images/administrator/icon-16-edb-slideshow.png') no-repeat 5px center;
+}
+
+#phocagallery-links th a {
+	text-decoration:none;
+}
+
+#phocagallery-links a {
+	text-decoration:underline;
+}
+
+#phocagallery-links ul li {
+	list-style-type:none;
+	padding: 10px 10px 10px 30px;
+	margin: 0.75em;
+	border-radius: 3px;
+	border: 1px solid #e0e0e0;
+	display: block;
+	width: auto;
+}
+
+/*
+#phocagallery-links .ph-icon-16-edb-back {
+	background: #f8f9fa url('../../com_phocadownload/images/administrator/icon-16-edb-back.png') no-repeat 5px center;
+	list-style-type:none;
+	width: 2em;
+}
+*/
+#phocagallery-links .btn-box-back a {
+	text-decoration:none;
+}
+
+.ph-warning {
+	background-color: #fecf6d;
+	margin: 1em 0;
+	padding: 1em;
+	border-radius: 3px;
 }

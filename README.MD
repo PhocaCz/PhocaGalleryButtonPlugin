@@ -52,9 +52,13 @@ Phoca Gallery Button Plugin is a Joomla! plugin which enables a Phoca Gallery bu
 
 
 
-## Version
+## Version (Joomla! 3.x)
 
-4.4.0
+4.4.3
+
+## Version (Joomla! 4.x)
+
+4.5.2
 
 
 
