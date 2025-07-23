@@ -11,6 +11,7 @@ use Joomla\CMS\Language\Text;
 use Joomla\CMS\Object\CMSObject;
 use Joomla\CMS\Plugin\CMSPlugin;
 use Joomla\CMS\Session\Session;
+use Joomla\CMS\Factory;
 
 defined( '_JEXEC' ) or die( 'Restricted access' );
 
@@ -23,9 +24,9 @@ class plgButtonPhocaGallery extends CMSPlugin
 
 	function onDisplay($name) {
 
-		$app = JFactory::getApplication();
+		$app = Factory::getApplication();
 
-		$document = JFactory::getDocument();
+		$document = Factory::getDocument();
 		$template = $app->getTemplate();
 
 		$enableFrontend = $this->params->get('enable_frontend', 0);
