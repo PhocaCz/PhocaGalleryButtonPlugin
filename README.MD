@@ -1,6 +1,12 @@
+
+
+
+
 ![Phoca Gallery Button Plugin](https://github.com/PhocaCz/PhocaGalleryButtonPlugin/blob/master/phocagallery.png?raw=true)
 
 # Phoca Gallery Button Plugin
+
+
 
 ## Phoca Gallery Button Plugin — Community-Driven Extension for Joomla CMS
 
@@ -19,6 +25,7 @@ Our compliance with the principles of free and open-source software is establish
 * **Decentralized Infrastructure:** This codebase is hosted in a public, transparent repository on GitHub to foster open collaborative development and public peer review, ensuring safety and quality through community vigilance.
 
 *This repository is a shared community resource dedicated to the global open-source ecosystem.*
+
 
 
 ## Project page
@@ -61,13 +68,13 @@ Our compliance with the principles of free and open-source software is establish
 
 
 
-## Version (Joomla! 3.x)
-
-4.4.3
-
 ## Version (Joomla! 4.x)
 
-4.5.2
+4.4.0
+
+## Version (Joomla! 5.x)
+
+6.1.1
 
 
 
@@ -78,3 +85,17 @@ GNU/GPL
 
 
 This project is open source project - feel free to contribute! Thank you.
+
+
+
+## Social Media
+
+- [Phoca on Facebook](https://www.facebook.com/Phoca.cz)
+
+- [Phoca on X (Twitter)](https://twitter.com/PhocaCz)
+
+- [Phoca on YouTube](https://www.youtube.com/user/phocavideos)
+
+- [Phoca on GitHub](https://github.com/PhocaCz)
+
+- [Phoca on Reddit](https://www.reddit.com/user/PhocaCz)
