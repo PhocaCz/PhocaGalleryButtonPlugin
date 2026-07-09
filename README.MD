@@ -1,12 +1,6 @@
-
-
-
-
 ![Phoca Gallery Button Plugin](https://github.com/PhocaCz/PhocaGalleryButtonPlugin/blob/master/phocagallery.png?raw=true)
 
 # Phoca Gallery Button Plugin
-
-
 
 ## Phoca Gallery Button Plugin — Community-Driven Extension for Joomla CMS
 
@@ -26,76 +20,64 @@ Our compliance with the principles of free and open-source software is establish
 
 *This repository is a shared community resource dedicated to the global open-source ecosystem.*
 
+### Community Feedback & Contributions
+
+We welcome your feedback and active involvement. You can join the development and follow the progress on public, independent GitHub pages at [https://github.com/PhocaCz](https://github.com/PhocaCz).
+Any feedback, bug reports, feature suggestions, or code improvements can be submitted transparently via **GitHub Issues** or **Pull Requests** within the respective repository.
+
+### Accompanying External Resources
+
+If you need additional information beyond this GitHub repository, further documentation, updates, and community channels are available on the following external websites:
+
+#### External Project Information
+
+- [Phoca Gallery Button Plugin](https://www.phoca.cz/phocagallery-button)
+- [Phoca Gallery Info Page](https://www.phoca.cz/project/phocagallery-joomla-gallery)
+- [Project is listed on Joomla Extensions Directory](https://extensions.joomla.org/)
+- [Project is listed on Phoca download directory](https://www.phoca.cz/download)
 
 
-## Project page
+#### External Documentation
 
-[Phoca Gallery Button Plugin](https://www.phoca.cz/phocagallery-button)
-
-[Phoca Gallery Info Page](https://www.phoca.cz/project/phocagallery-joomla-gallery)
+- [Documentation](https://www.phoca.cz/documentation/category/59-phoca-gallery-button-plugin)
 
 
+#### External Community Support
 
-## Documentation
-
-[Documentation](https://www.phoca.cz/documentation/category/59-phoca-gallery-button-plugin)
-
-
-
-
-
-## Support
-
-[Phoca Forum](https://www.phoca.cz/forum)
-
-:bell: [Phoca Forum RSS](https://www.phoca.cz/forum/app.php/feed)
+- [Phoca Forum](https://www.phoca.cz/forum)
+- [Joomla Forum](https://forum.joomla.org/)
+- [Joomlaportal.cz Forum - Czech](https://www.joomlaportal.cz/forum)
+- [Joomla.de Supportforum - German](https://forum.joomla.de/)
+- :bell: [Phoca Forum RSS](https://www.phoca.cz/forum/app.php/feed)
 
 
+#### External News & Feeds
 
-## News
-
-[Phoca News](https://www.phoca.cz/news)
-
-:bell: [Phoca News RSS](https://www.phoca.cz/news?format=feed&type=rss)
-
-:bell: [Phoca Latest Releases RSS](https://www.phoca.cz/download/feed/111?format=feed&type=rss)
+- [Phoca News](https://www.phoca.cz/news)
+- [Joomlaportal.cz News](https://www.joomlaportal.cz/novinky)
+- :bell: [Phoca News RSS](https://www.phoca.cz/news?format=feed&type=rss)
+- :bell: [Phoca Latest Releases RSS](https://www.phoca.cz/download/feed/111?format=feed&type=rss)
 
 
+#### Demo
 
-## Demo
+- [Joomla! 1.5 Demo](https://www.phoca.cz/demo/)
 
-[Joomla! 1.5 Demo](https://www.phoca.cz/demo/)
-
-
-
-## Version (Joomla! 4.x)
-
+### Version (Joomla! 3.x - no longer supported)
 4.4.0
-
-## Version (Joomla! 5.x)
-
+### Version (Joomla! 6.x)
 6.1.1
 
-
-
-## License
+### License
 
 GNU/GPL
 
-
-
 This project is open source project - feel free to contribute! Thank you.
 
-
-
-## Social Media
+### Social Media
 
 - [Phoca on Facebook](https://www.facebook.com/Phoca.cz)
-
 - [Phoca on X (Twitter)](https://twitter.com/PhocaCz)
-
 - [Phoca on YouTube](https://www.youtube.com/user/phocavideos)
-
 - [Phoca on GitHub](https://github.com/PhocaCz)
-
 - [Phoca on Reddit](https://www.reddit.com/user/PhocaCz)
