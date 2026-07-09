@@ -65,6 +65,8 @@ If you need additional information beyond this GitHub repository, further docume
 
 ### Version (Joomla! 3.x - no longer supported)
 4.4.0
+### Version (Joomla! 4.x - no longer supported)
+4.5.2
 ### Version (Joomla! 6.x)
 6.1.1
 
